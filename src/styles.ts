@@ -43,8 +43,8 @@ export default css`
 
   clock-weather-card-today-right-wrap-center {
     display: flex;
-    height: 4rem;
-    font-size: 3.5rem;
+    height: 4.5rem;
+    font-size: 4.5rem;
     white-space: nowrap;
     align-items: center;
     justify-content: center;
